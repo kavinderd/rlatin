@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Rlatin::VERSION
   spec.authors       = ["Kavinder Dhaliwal"]
   spec.email         = ["kavinderd@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Lating word, idiom, translation knowledge base.}
+	spec.description   = %q{Given Latin text, rlatin will parse the file for specific markdown indicating translation, usage, authorship, time period etc. Not intended to be a language parser or translation tool, but aid for latin students.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
